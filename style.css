@@ -1,11 +1,12 @@
 * {
   margin-left: 10px;
   margin-right: 10px;
+  background-color: #1f2937;
+  color: white;
 }
 
 .flex-container {
   display: flex;
   flex-direction: row;
-  gap: 10px;
   justify-content: space-between;
 }
