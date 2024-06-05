@@ -16,3 +16,15 @@
   font-weight: extra-bold;
   color: #f9faf8;
 }
+
+#secondary-text {
+  font-size: 18px;
+  color: #f9faf8;
+}
+
+#btn {
+  background: #3882f6;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
