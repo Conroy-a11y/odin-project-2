@@ -22,3 +22,12 @@
   font-size: 18px;
   color: #e5e7eb;
 }
+
+#btn {
+  background: #3882f6;
+  border: none;
+  border-radius: 10px;
+  width: 80px;
+  height: 20px;
+  cursor: pointer;
+}
