@@ -1,6 +1,7 @@
 * {
-  margin-left: 10px;
-  margin-right: 10px;
+  margin: 8px;
+  padding: 0;
+
   background-color: #1f2937;
   color: white;
 }
@@ -8,23 +9,6 @@
 .flex-container {
   display: flex;
   flex-direction: row;
+  gap: 1rem;
   justify-content: space-between;
-}
-
-#hero-text {
-  font-size: 48px;
-  font-weight: extra-bold;
-  color: #f9faf8;
-}
-
-#secondary-text {
-  font-size: 18px;
-  color: #f9faf8;
-}
-
-#btn {
-  background: #3882f6;
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
 }
