@@ -55,3 +55,22 @@ h2 {
   background: #e5e7eb;
   margin: 0;
 }
+
+.fourth-container {
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(225, 216, 216);
+  margin: 0;
+}
+
+#qoute {
+  color: black;
+  background: rgb(225, 216, 216);
+  align-self: center;
+}
+
+#author {
+  color: black;
+  background: rgb(225, 216, 216);
+  align-self: self-end;
+}
