@@ -56,6 +56,11 @@ h2 {
   margin: 0;
 }
 
+.third-containe img {
+  border: 2px solid blue;
+  background: #e5e7eb;
+}
+
 .fourth-container {
   display: flex;
   flex-direction: column;
