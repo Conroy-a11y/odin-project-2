@@ -39,3 +39,17 @@
   flex-direction: column;
   width: 400px;
 }
+
+h2 {
+  font-size: 36px;
+  font-weight: bolder;
+  color: black;
+  background-color: #e5e7eb;
+}
+
+.third-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background: #e5e7eb;
+}
